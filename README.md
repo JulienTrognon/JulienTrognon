@@ -2,7 +2,7 @@
 
 Student looking forward to become Fullstack Developer.
 
-🌱 Learning algorithmy, data structures, web dev, oop, functional programming
+🌱 Learning algorithmy, data structures, web dev, oop, functional programming, project management
 
 🛠️ Using Java, C, Python, HTML CSS, Javascript, PHP, SQL, BootStrap, JQuery, Ocaml
 
