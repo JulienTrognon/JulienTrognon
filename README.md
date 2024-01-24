@@ -1,16 +1,13 @@
-### Hi there 👋
+# Julien TROGNON
 
-<!--
-**JulienTrognon/JulienTrognon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student looking forward to become Fullstack Developer.
 
-Here are some ideas to get you started:
+🌱 Learning algorithmy, data structures, web dev, oop, functional programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Using Java, C, Python, HTML CSS, Javascript, PHP, SQL, BootStrap, JQuery, Ocaml
+
+👌 I’m interested in game dev, UX / UI and graphic design, software programming, web dev, music production, video game music, marketing & communication
+
+### 🔗 Links
+- [pro.jtrog@gmail.com](pro.jtrog@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/julien-trognon-283754164/)
